@@ -1,0 +1,514 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"str",
+				"srt	RSpec Should Respond To"
+			],
+			[
+				"up",
+				"update"
+			],
+			[
+				"del",
+				"delete"
+			],
+			[
+				"tr",
+				"translate"
+			],
+			[
+				"is",
+				"isConsanants"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"selected_items":
+		[
+			[
+				":w",
+				":w - Save"
+			],
+			[
+				":wq",
+				"BracketHighlighter: Swap Quotes"
+			],
+			[
+				"lor",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"push",
+				"Git: Push"
+			],
+			[
+				"comm",
+				"Git: Commit"
+			],
+			[
+				"git: cu",
+				"Git: Custom Command"
+			],
+			[
+				"add",
+				"Git: Add..."
+			],
+			[
+				"com",
+				"Git: Commit"
+			],
+			[
+				"statu",
+				"Git: Status"
+			],
+			[
+				"quick",
+				"Git: Quick Commit"
+			],
+			[
+				"commit",
+				"Git: Commit"
+			],
+			[
+				"status",
+				"Git: Status"
+			],
+			[
+				"git",
+				"Git: Pull"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"snippet: bs3-form",
+				"Snippet: bs3-form"
+			],
+			[
+				"lorem",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"snippet",
+				"Snippet: #!/usr/bin/env"
+			],
+			[
+				"gist",
+				"Gist: Create Public Gist"
+			],
+			[
+				"alignment",
+				"Preferences: Alignment Key Bindings – Default"
+			],
+			[
+				"mode",
+				"SublimeLinter: Choose Lint Mode"
+			],
+			[
+				"terminal",
+				"Preferences: Terminal Key Bindings – Default"
+			],
+			[
+				"save",
+				"Project: Save As"
+			],
+			[
+				"User",
+				"Preferences: Settings - User"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"quick c",
+				"Git: Quick Commit"
+			],
+			[
+				"align",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 588.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": true,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/colbycheeze/projects/odin-project/sample_app"
+	],
+	"file_history":
+	[
+		"/home/colbycheeze/projects/odin-project/sample_app/Gemfile",
+		"/home/colbycheeze/projects/shoes-app/hello_world.rb",
+		"/home/colbycheeze/projects/shoes-app/shoes_app_window.rb",
+		"/home/colbycheeze/projects/odin-project/ruby-basic-webserver/index.html",
+		"/home/colbycheeze/projects/odin-project/ruby-basic-webserver/tiny_browser.rb",
+		"/home/colbycheeze/projects/odin-project/ruby-basic-webserver/simple_server.rb",
+		"/home/colbycheeze/projects/odin-project/ruby-basic-webserver/simple_client.rb",
+		"/home/colbycheeze/projects/odin-project/ruby-basic-webserver/simple_tcp.rb",
+		"/home/colbycheeze/projects/odin-project/ruby-basic-webserver/simple_TCP",
+		"/home/colbycheeze/projects/odin-project/ruby-basic-webserver/README.md",
+		"/home/colbycheeze/projects/odin-project/fileio/files-serialization.rb",
+		"/home/colbycheeze/projects/odin-project/files-serialization",
+		"/home/colbycheeze/projects/odin-project/enumerable-method/project2.rb",
+		"/home/colbycheeze/projects/bubble-sort/bubble_sort.rb",
+		"/home/colbycheeze/projects/my_array = [9,4,3,2,5,7,1]",
+		"/home/colbycheeze/.rp5rc",
+		"/home/colbycheeze/projects/ruby-processing/babysteps.rb",
+		"/usr/lib/ruby/2.1.0/rubygems/dependency.rb",
+		"/home/colbycheeze/projects/ruby-cmdline/helloscript.rb",
+		"/home/colbycheeze/.speedswapper",
+		"/home/colbycheeze/projects/odin-project/rails-project/app/views/articles/index.html.erb",
+		"/home/colbycheeze/projects/odin-project/rails-project/app/views/articles/show.html.erb",
+		"/home/colbycheeze/projects/odin-project/rails-project/blogger/config/routes.rb",
+		"/home/colbycheeze/projects/odin-project/rails-project/blogger/Gemfile",
+		"/home/colbycheeze/projects/odin-project/rails-project/blogger/test/controllers/articles_controller_test.rb",
+		"/home/colbycheeze/projects/odin-project/rails-project/blogger/app/assets/stylesheets/application.css",
+		"/home/colbycheeze/projects/odin-project/rails-project/blogger/app/assets/stylesheets/articles.css.scss",
+		"/home/colbycheeze/projects/odin-project/rails-project/blogger/config/initializers/cookies_serializer.rb",
+		"/home/colbycheeze/projects/odin-project/rails-project/blogger/config/secrets.yml",
+		"/home/colbycheeze/projects/odin-project/rails-project/blogger/app/views/articles/show.html.erb",
+		"/home/colbycheeze/projects/odin-project/rails-project/blogger/app/views/articles/_form.html.erb",
+		"/home/colbycheeze/projects/odin-project/rails-project/blogger/app/helpers/articles_helper.rb",
+		"/home/colbycheeze/projects/odin-project/rails-project/blogger/app/models/article.rb",
+		"/home/colbycheeze/projects/odin-project/rails-project/blogger/app/views/comments/_form.html.erb",
+		"/home/colbycheeze/projects/odin-project/rails-project/blogger/app/controllers/articles_controller.rb",
+		"/home/colbycheeze/projects/odin-project/rails-project/blogger/app/views/articles/index.html.erb",
+		"/home/colbycheeze/projects/odin-project/rails-project/blogger/app/views/tags/show.html.erb",
+		"/home/colbycheeze/projects/odin-project/rails-project/blogger/app/controllers/tags_controller.rb",
+		"/home/colbycheeze/projects/odin-project/rails-project/blogger/app/views/tags/index.html.erb",
+		"/home/colbycheeze/projects/odin-project/rails-project/blogger/db/migrate/20141210165319_add_paperclip_fields_to_article.rb",
+		"/home/colbycheeze/projects/odin-project/rails-project/blogger/config/initializers/inflections.rb",
+		"/home/colbycheeze/projects/odin-project/rails-project/blogger/test/fixtures/articles.yml",
+		"/home/colbycheeze/projects/odin-project/rails-project/blogger/app/models/tag.rb",
+		"/home/colbycheeze/projects/odin-project/rails-project/blogger/config/application.rb",
+		"/home/colbycheeze/projects/odin-project/rails-project/blogger/app/controllers/application_controller.rb",
+		"/home/colbycheeze/projects/odin-project/rails-project/blogger/test/fixtures/tags.yml",
+		"/home/colbycheeze/projects/odin-project/rails-project/blogger/db/test.sqlite3",
+		"/home/colbycheeze/projects/odin-project/rails-project/blogger/db/development.sqlite3",
+		"/home/colbycheeze/projects/odin-project/rails-project/blogger/test/models/article_test.rb",
+		"/home/colbycheeze/projects/odin-project/rails-project/blogger/app/controllers/comments_controller.rb",
+		"/home/colbycheeze/projects/odin-project/rails-project/blogger/app/views/articles/_comment.html.erb",
+		"/home/colbycheeze/projects/odin-project/rails-project/blogger/db/migrate/20141210005713_create_comments.rb",
+		"/home/colbycheeze/projects/odin-project/rails-project/blogger/config/initializers/filter_parameter_logging.rb",
+		"/home/colbycheeze/projects/odin-project/rails-project/blogger/app/models/comment.rb",
+		"/home/colbycheeze/projects/odin-project/rails-project/blogger/Rakefile",
+		"/home/colbycheeze/projects/odin-project/rails-project/blogger/bin/spring",
+		"/home/colbycheeze/projects/odin-project/rails-project/blogger/app/models/.keep",
+		"/home/colbycheeze/projects/odin-project/rails-project/blogger/config/initializers/mime_types.rb",
+		"/home/colbycheeze/projects/odin-project/rails-project/blogger/test/models/comment_test.rb",
+		"/home/colbycheeze/projects/odin-project/rails-project/blogger/test/fixtures/comments.yml",
+		"/opt/sublime_text/Packages/Ruby.sublime-package",
+		"/home/colbycheeze/.config/sublime-text-3/Packages/Alignment/Default (Linux).sublime-keymap",
+		"/home/colbycheeze/.config/sublime-text-3/Packages/Terminal/Default (Linux).sublime-keymap",
+		"/home/colbycheeze/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/colbycheeze/.config/sublime-text-3/Packages/User/Terminal.sublime-settings",
+		"/home/colbycheeze/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/colbycheeze/projects/odin-project/rails-project/blogger/app/assets/stylesheets/screen.css",
+		"/home/colbycheeze/projects/odin-project/rails-project/blogger/config/initializers/session_store.rb",
+		"/home/colbycheeze/projects/odin-project/rails-project/blogger/config.ru",
+		"/home/colbycheeze/projects/odin-project/rails-project/blogger/vendor/assets/javascripts/.keep",
+		"/home/colbycheeze/projects/odin-project/rails-project/blogger/test/test_helper.rb",
+		"/home/colbycheeze/projects/odin-project/rails-project/blogger/app/views/articles/edit.html.erb",
+		"/home/colbycheeze/projects/odin-project/rails-project/blogger/app/views/layouts/application.html.erb",
+		"/home/colbycheeze/projects/odin-project/rails-project/blogger/app/views/articles/new.html.erb",
+		"/home/colbycheeze/projects/odin-project/rails-project/blogger/db/migrate/20141209221206_create_articles.rb",
+		"/home/colbycheeze/projects/odin-project/project-ruby/learn_ruby/09_timer/timer_spec.rb",
+		"/home/colbycheeze/projects/odin-project/project-ruby/learn_ruby/09_timer/timer.rb",
+		"/home/colbycheeze/projects/odin-project/project-ruby/learn_ruby/08_book_titles/book.rb",
+		"/home/colbycheeze/projects/odin-project/project-ruby/learn_ruby/07_hello_friend/hello_friend_spec.rb",
+		"/home/colbycheeze/projects/odin-project/project-ruby/learn_ruby/07_hello_friend/friend.rb",
+		"/home/colbycheeze/projects/odin-project/project-ruby/learn_ruby/06_performance_monitor/performance_monitor_spec.rb",
+		"/home/colbycheeze/projects/odin-project/project-ruby/learn_ruby/06_performance_monitor/performance_monitor.rb",
+		"/home/colbycheeze/projects/odin-project/project-ruby/learn_ruby/03_simon_says/simon_says.rb",
+		"/home/colbycheeze/projects/odin-project/project-ruby/learn_ruby/05_silly_blocks/silly_blocks_spec.rb",
+		"/home/colbycheeze/projects/odin-project/project-ruby/learn_ruby/05_silly_blocks/silly_blocks.rb",
+		"/home/colbycheeze/projects/odin-project/project-ruby/learn_ruby/04_pig_latin/pig_latin_spec.rb",
+		"/home/colbycheeze/projects/odin-project/project-ruby/learn_ruby/04_pig_latin/pig_latin.rb",
+		"/home/colbycheeze/projects/odin-project/project-ruby/learn_ruby/04_pig_latin/pig_latin",
+		"/home/colbycheeze/projects/odin-project/project-ruby/learn_ruby/02_calculator/calculator.rb",
+		"/home/colbycheeze/projects/odin-project/project-ruby/learn_ruby/02_calculator/calculator_spec.rb",
+		"/home/colbycheeze/projects/odin-project/project-ruby/learn_ruby/01_temperature/temperature.rb",
+		"/home/colbycheeze/projects/odin-project/project-ruby/learn_ruby/00_hello/hello.rb",
+		"/home/colbycheeze/projects/odin-project/project-ruby/learn_ruby/00_hello/index.html",
+		"/home/colbycheeze/projects/odin-project/project-ruby/learn_ruby/index.html",
+		"/home/colbycheeze/railsbridge/test_app/config/routes.rb",
+		"/home/colbycheeze/railsbridge/test_app/Gemfile",
+		"/home/colbycheeze/projects/odin-project/etch-a-sketch/index.html",
+		"/home/colbycheeze/projects/odin-project/etch-a-sketch/css/stylesheet.css",
+		"/home/colbycheeze/projects/odin-project/etch-a-sketch/js/script.js"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"top",
+			"taggings",
+			"comments",
+			"\n	",
+			"Article",
+			"word",
+			"([",
+			"word",
+			"words",
+			"grid"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 40.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				0,
+				1,
+				1,
+				2
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			0.5,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 112.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 112.0
+	},
+	"project": "sample_app.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"index",
+				"app/views/articles/index.html.erb"
+			],
+			[
+				"route",
+				"config/routes.rb"
+			],
+			[
+				"show",
+				"app/views/articles/show.html.erb"
+			],
+			[
+				"_form",
+				"app/views/articles/_form.html.erb"
+			],
+			[
+				"articles",
+				"app/helpers/articles_helper.rb"
+			],
+			[
+				"article",
+				"app/models/article.rb"
+			],
+			[
+				"artic",
+				"app/controllers/articles_controller.rb"
+			],
+			[
+				"tags_",
+				"app/controllers/tags_controller.rb"
+			],
+			[
+				"tags_con",
+				"app/controllers/tags_controller.rb"
+			],
+			[
+				"rout",
+				"config/routes.rb"
+			],
+			[
+				"",
+				"app/models/article.rb"
+			],
+			[
+				"articles_con",
+				"app/controllers/articles_controller.rb"
+			],
+			[
+				"articles_he",
+				"app/helpers/articles_helper.rb"
+			],
+			[
+				"tag",
+				"app/models/tag.rb"
+			],
+			[
+				"arti",
+				"app/models/article.rb"
+			],
+			[
+				"_comm",
+				"app/views/articles/_comment.html.erb"
+			],
+			[
+				"form",
+				"app/views/comments/_form.html.erb"
+			],
+			[
+				"control",
+				"app/controllers/comments_controller.rb"
+			],
+			[
+				"contr",
+				"app/controllers/articles_controller.rb"
+			],
+			[
+				"_fo",
+				"app/views/comments/_form.html.erb"
+			],
+			[
+				"art",
+				"app/controllers/articles_controller.rb"
+			],
+			[
+				"models",
+				"app/models/comment.rb"
+			],
+			[
+				"comments",
+				"db/migrate/20141210005713_create_comments.rb"
+			],
+			[
+				"css",
+				"app/assets/stylesheets/screen.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 221.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
