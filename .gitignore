@@ -16,3 +16,6 @@
 /tmp
 
 *.sublime-project
+
+#Ignore the Spring files.
+/spring/*.pid
