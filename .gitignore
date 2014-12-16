@@ -15,7 +15,9 @@
 /log/*.log
 /tmp
 
-*.sublime-project
+*.sublime*
 
 #Ignore the Spring files.
 /spring/*.pid
+
+*~
