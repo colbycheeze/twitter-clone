@@ -9,3 +9,4 @@ if Rails.env.production?
     config.fog_directory     =  ENV['cheeze-projects']
   end
 end
+
