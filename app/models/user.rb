@@ -1,4 +1,6 @@
 class User < ActiveRecord::Base
+  has_many :microposts, dependent: :destroy
+
   attr_accessor :remember_token
 
   before_save { email.downcase! }
@@ -9,6 +11,10 @@ class User < ActiveRecord::Base
                     uniqueness: { case_sensitive: false }
   has_secure_password
   validates :password, length: { minimum: 6 }, allow_blank: true
+
+  def feed
+    Micropost.where("user_id = ?", id)
+  end
 
    # Remembers a user in the database for use in persistent sessions.
   def remember
