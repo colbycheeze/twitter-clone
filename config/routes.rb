@@ -1,9 +1,5 @@
 Rails.application.routes.draw do
 
-  get 'sessions/new'
-
-  resources        :users
-
   root                'static_pages#home'
   get    'contact' => 'static_pages#contact'
   get    'help'    => 'static_pages#help'
@@ -12,7 +8,13 @@ Rails.application.routes.draw do
   get    'login'   => 'sessions#new'
   post   'login'   => 'sessions#create'
   delete 'logout'  => 'sessions#destroy'
+   resources :users do
+    member do
+      get :following, :followers
+    end
+  end
 
-  resources :microposts, only: [:create, :destroy]
+  resources :microposts,          only: [:create, :destroy]
+  resources :relationships,       only: [:create, :destroy]
 
 end
