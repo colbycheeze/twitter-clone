@@ -21,7 +21,7 @@ class User < ActiveRecord::Base
   validates :password, length: { minimum: 6 }, allow_blank: true
 
   def feed
-    Micropost.where("user_id = ?", id)
+    Micropost.where("user_id in (?) OR user_id = ?", following_ids, id)
   end
 
   # Follows a user.
